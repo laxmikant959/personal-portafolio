@@ -1,2 +1,2 @@
 # personal-portafolio
-for intershio
+for intership
